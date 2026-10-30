@@ -23,6 +23,8 @@ More: <https://en.wikipedia.org/wiki/Langton%27s_ant>
 
 A minimal B4J (B4XPages) implementation of the algorithm, drawn on a canvas with 4-pixel cells on a 500×500 grid.
 
+![Langton's Ant running, with the highway starting to form](docs/screenshot.png)
+
 - **Left-click / drag** on the canvas to paint black cells (try seeding obstacles and watch how the ant reacts).
 - **Right-click** to drop the ant at that cell and start it running.
 - **Button** stops the ant.
